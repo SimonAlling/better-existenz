@@ -1,11 +1,11 @@
 export default {
-    id: "bootstrapped-userscript",
-    name: "Bootstrapped Userscript",
+    id: "better-existenz",
+    name: "Better Existenz",
     version: "0.1.0",
-    description: "A basic bootstrapped userscript.",
-    author: "John Smith",
-    hostname: "example.com",
-    sitename: "Example.com",
-    namespace: "mywebsite.example",
+    description: "Improved usability for Existenz.se",
+    author: "Simon Alling",
+    hostname: "existenz.se",
+    sitename: "Existenz",
+    namespace: "simonalling.se",
     runAt: "document-start",
 } as const;
